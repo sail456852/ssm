@@ -1,0 +1,12 @@
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/filter/TokenCheckFilter.java
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/controller/CustomerController.java
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/service/impl/CustomerServiceImpl.java
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/mapper/CustomerMapper.java
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/util/Page.java
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/service/CustomerService.java
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/controller/TestController.java
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/service/impl/DictServiceImpl.java
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/mapper/DictMapper.java
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/model/Customer.java
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/service/DictService.java
+/home/yz/MyProjects/crm/src/main/java/cn/itcast/model/BaseDict.java
