@@ -13,8 +13,7 @@
 	  <mybatis.version>3.2.8</mybatis.version>
 	  <mybatis.spring.version>1.2.2</mybatis.spring.version>
 	  <mybatis.paginator.version>1.2.15</mybatis.paginator.version>
-	  <!--<mysql.version>5.1.32</mysql.version>-->
-      <mysql.version>8.0.13</mysql.version>
+	  <mysql.version>5.1.38</mysql.version>
 	  <slf4j.version>1.6.4</slf4j.version>
 	  <jackson.version>2.9.2</jackson.version>
 	  <jackson.core.asl>1.9.13</jackson.core.asl>
@@ -275,7 +274,7 @@
 		<artifactId>tomcat7-maven-plugin</artifactId>
 		<configuration>
 			<path>/</path>
-			<port>8088</port>
+			<port>9999</port>
 			<uriEncoding>UTF-8</uriEncoding>
 		</configuration>
 	</plugin>
